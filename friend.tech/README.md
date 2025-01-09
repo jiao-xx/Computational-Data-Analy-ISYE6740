@@ -15,7 +15,7 @@ This project leverages the Friend.tech platform and its Python package to perfor
 - **Python Libraries**: Pandas, NetworkX, Matplotlib, Seaborn.
 - **Jupyter Notebook**: For data exploration and analysis workflows.
 - **Graph Theory**: For network analysis and community detection.
-- **Visualization**: For creating interactive charts and network graphs.
+- **Visualization**: For creating interactive charts and network graphs. [Poster](https://github.com/jiao-xx/Computational-Data-Analy-ISYE6740/blob/main/friend.tech/Report%20Poster.pdf)
 
 ## Workflow
 1. **Data Collection**:
@@ -32,7 +32,7 @@ This project leverages the Friend.tech platform and its Python package to perfor
 
 5. **Visualization**:
    - Generated network graphs, financial trend charts, and interactive dashboards for actionable insights.
-   - [Presentation](https://github.com/jiao-xx/Computational-Data-Analy-ISYE6740/blob/main/friend.tech/Report%20Poster.pdf)
+   - [Poster](https://github.com/jiao-xx/Computational-Data-Analy-ISYE6740/blob/main/friend.tech/Report%20Poster.pdf)
 
 ## Results
 The project provides:
